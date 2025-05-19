@@ -7,7 +7,7 @@ joined: 2022
 title: Xindong Zhang
 ---
 
-<img width="300" src="images/people/Xindong_Zhang.jpg" data-action="zoom">
+<img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
 ### Contact
 
