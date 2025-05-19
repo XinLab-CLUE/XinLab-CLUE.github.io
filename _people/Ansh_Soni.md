@@ -1,27 +1,27 @@
 ---
-name: Ansh Soni
-position: gradstudent
-avatar: Ansh_Soni.jpg
+name: Xindong Zhang
+position: PhD Candtidate
+avatar: Xindong_Zhang.jpg
 twitter:
-joined: 2024
-title: Ansh Soni
+joined: 2022
+title: Xindong Zhang
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
 ### Contact
 
-<i class="fa fa-envelope-o"></i>  `anshsoni@sas.upenn.edu`<br>
+<i class="fa fa-envelope-o"></i>  `xindong.zhang@hdr.mq.edu.au`<br>
 
 <hr>
 
 ### Bio
 
-Ansh recieved degrees in Physics and Psychology from University of California - Santa Barbara in 2023. He will start his PhD at UPenn in Fall 2024 in the Psychology Department supported by the NSF-GRFP.
+Xindong Zhang is a PhD candidate in the Department of Linguistics. She holds a Bachelor of English and Master of Foreign Languages and Literature from Chongqing University, China. 
 
 ### Research Interests
 
-Ansh is interested in utilizing machine learning methods to better understand human perception and taking inspiration from the human brain to create improved machine learning algorithms.
+Xindong's research area of interest includes investigating tone and word processing from the neural perspective.
 
 
 
