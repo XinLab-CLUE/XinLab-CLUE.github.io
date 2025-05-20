@@ -3,14 +3,14 @@
 # # # # # # # #
 
 # Basic
-name:               "Kording Lab"
-title:              "Kording Lab at the University of Pennsylvania"
-description:        "The Kording Lab is a computational neuroscience and causality research group at the University of Pennsylvania."
+name:               "Xin Lab"
+title:              "Xin Lab at the Macquarie University"
+description:        "The Xin Lab is a psycholinguistics Lab."
 
 
 # URL
-url:                http://kordinglab.com
-baseurl:            
+url:                https://github.com/ZhangXindong96/XinpsylingLab.github.io
+baseurl:            https://github.com/ZhangXindong96/XinpsylingLab.github.io
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
 
