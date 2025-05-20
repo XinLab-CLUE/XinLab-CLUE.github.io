@@ -22,10 +22,10 @@ highlighter:        rouge
 
 # Navigation
 nav:
-  - name:           "home"
-    href:           "/"
+#  - name:           "home"
+#    href:           "/"
   - name:           "about"
-    href:           "/about"
+    href:           "https://zhangxindong96.github.io/XinpsylingLab.github.io/about.md"
   - name:           "publications"
     href:           "/publication"
   - name:           "people"
