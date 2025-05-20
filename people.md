@@ -15,7 +15,7 @@ permalink: /people/
       {% when "pi" %}Principal Investigator
       {% when "postdoc" %}Postdoctoral Fellows
       {% when "phd" %}PhD Candidates
-      {% # … 其余同理 … %}
+    
     {% endcase %}
     </h3>
 
