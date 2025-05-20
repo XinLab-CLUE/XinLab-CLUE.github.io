@@ -1,22 +1,21 @@
 ---
-name: Xindong Zhang
-position: PhD Candtidate
-avatar: Xindong_Zhang.jpg
-twitter:
-joined: 2022
+layout: profile
 title: Xindong Zhang
+avatar: Xindong_Zhang.jpg
+joined: 2022
 ---
 
-
-<img width="300"
-     src="{{ '/images/people/' | append: page.avatar | relative_url }}"
-     data-action="zoom"/>
-
-
+<!-- 这里才是真正的内容区，Liquid 会在渲染时处理 -->
+<img
+  width="300"
+  src="{{ '/images/people/' | append: page.avatar | relative_url }}"
+  alt="{{ page.name }}"
+  data-action="zoom"
+/>
 
 ### Contact
+<i class="fa fa-envelope-o"></i>  `xindong.zhang@hdr.mq.edu.au`
 
-<i class="fa fa-envelope-o"></i>  `xindong.zhang@hdr.mq.edu.au`<br>
 
 <hr>
 
