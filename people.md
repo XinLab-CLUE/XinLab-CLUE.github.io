@@ -1,7 +1,13 @@
+
 ---
 title: People
 permalink: /people/
 ---
 
-**Hello, Xin Lab!**  
-这是一个简单的测试。
+页面共抓到 {{ site.people | size }} 条成员。
+
+<ul>
+{% for p in site.people %}
+  <li>{{ p.name }} — joined: {{ p.joined }}</li>
+{% endfor %}
+</ul>
