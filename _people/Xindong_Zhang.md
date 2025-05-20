@@ -8,7 +8,10 @@ title: Xindong Zhang
 ---
 
 
-<img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
+<img width="300"
+     src="{{ '/images/people/' | append: page.avatar | relative_url }}"
+     data-action="zoom">
+
 
 ### Contact
 
