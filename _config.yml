@@ -9,8 +9,8 @@ description:        "The Xin Lab is a psycholinguistics Lab."
 
 
 # URL
-url:                https://zhangxindong96.github.io/XinpsylingLab.github.io
-baseurl:            "https://zhangxindong96.github.io/XinpsylingLab.github.io"
+url:                “https://zhangxindong96.github.io”
+baseurl:            "/XinpsylingLab.github.io"
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
 
@@ -25,17 +25,17 @@ nav:
 #  - name:           "home"
 #    href:           "/"
   - name:           "about"
-    href:           "/about"
+    href:           "/about/"
   - name:           "publications"
-    href:           "/publications"
+    href:           "/publications/"
   - name:           "people"
-    href:           "/people"
+    href:           "/people/"
   # - name:           "blog"
     # href:           "/blog"
 #   - name:           "abstracts"
-#     href:           "/abstracts"
+#     href:           "/abstracts/"
   - name:           "lab talks"
-    href:           "/presentations"
+    href:           "/presentations/"
 
 # Sass
 sass:
