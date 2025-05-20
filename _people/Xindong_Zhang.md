@@ -7,11 +7,7 @@ joined: 2022
 ---
 
 <!-- 这里才是真正的内容区，Liquid 会在渲染时处理 -->
-<img
-  width="300"
-  src="{{ '/images/people/' | append: page.avatar | relative_url }}"
-  data-action="zoom"
-/>
+<img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
 ### Contact
 <i class="fa fa-envelope-o"></i>  `xindong.zhang@hdr.mq.edu.au`
