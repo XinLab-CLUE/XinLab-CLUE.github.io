@@ -1,4 +1,3 @@
-
 ---
 title: People
 permalink: /people/
