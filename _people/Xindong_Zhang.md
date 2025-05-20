@@ -9,13 +9,11 @@ joined: 2022
 <img
   width="300"
   src="{{ '/images/people/' | append: page.avatar | relative_url }}"
-  alt="{{ page.name }}"
   data-action="zoom"
 />
 
 ### Contact
 <i class="fa fa-envelope-o"></i>  `xindong.zhang@hdr.mq.edu.au`
-
 
 <hr>
 
