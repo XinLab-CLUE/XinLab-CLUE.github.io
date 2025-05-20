@@ -1,6 +1,6 @@
 ---
 layout: profile
-title: Xindong Zhang
+name: "Xindong Zhang"
 position: phd
 avatar: Xindong_Zhang.jpg
 joined: 2022
