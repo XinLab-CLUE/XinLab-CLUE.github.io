@@ -10,7 +10,7 @@ description:        "The Xin Lab is a psycholinguistics Lab."
 
 # URL
 url:                https://github.com/ZhangXindong96/XinpsylingLab.github.io
-baseurl:            https://github.com/ZhangXindong96/XinpsylingLab.github.io
+baseurl:            
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
 
