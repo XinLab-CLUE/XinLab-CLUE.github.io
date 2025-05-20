@@ -1,7 +1,6 @@
 ---
 name: Xindong Zhang
 position: PhD Candtidate
-avatar: Xindong_Zhang.jpg
 twitter:
 joined: 2022
 title: Xindong Zhang
