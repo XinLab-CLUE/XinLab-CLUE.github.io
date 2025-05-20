@@ -1,13 +1,14 @@
 ---
 name: Xindong Zhang
 position: PhD Candtidate
+avatar: Xindong_Zhang.jpg
 twitter:
 joined: 2022
 title: Xindong Zhang
 ---
 
 
-<img width="300" src="Xindong_Zhang.jpg" data-action="zoom">
+<img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
 ### Contact
 
@@ -22,3 +23,4 @@ Xindong Zhang is a PhD candidate in the Department of Linguistics. She holds a B
 ### Research Interests
 
 Xindong's research area of interest includes investigating tone and word processing from the neural perspective.
+
