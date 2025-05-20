@@ -10,7 +10,7 @@ title: Xindong Zhang
 
 <img width="300"
      src="{{ '/images/people/' | append: page.avatar | relative_url }}"
-     data-action="zoom">
+     data-action="zoom"/>
 
 
 
