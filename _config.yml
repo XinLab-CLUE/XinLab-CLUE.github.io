@@ -67,5 +67,5 @@ defaults:
 collections:
   people:
     output: true
-    permalink: /people/:title/index.html
-    #permalink: /people/:title/
+    #permalink: /people/:title/index.html
+    permalink: /people/:title/
