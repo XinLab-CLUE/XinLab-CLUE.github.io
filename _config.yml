@@ -12,8 +12,8 @@ description:        "The Xin Lab is a psycholinguistics Lab."
 url:                “https://zhangxindong96.github.io”
 baseurl:            ""
 #baseurl:            "" #For Root Domain
-permalink:          /:year/:month/:day/:title.html
-#permalink:          /:year/:month/:day/:title/
+#permalink:          /:year/:month/:day/:title.html
+permalink:          /:year/:month/:day/:title/
 
 # Markdown
 markdown:           kramdown
@@ -67,5 +67,5 @@ defaults:
 collections:
   people:
     output: true
-    permalink: /people/:title/index.html
-    #permalink: /people/:title/
+    #permalink: /people/:title/index.html
+    permalink: /people/:title/
