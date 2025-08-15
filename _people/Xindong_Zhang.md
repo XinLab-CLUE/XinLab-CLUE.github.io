@@ -13,6 +13,9 @@ joined: 2022
 
 <hr>
 
+### CV  
+<i class="fa fa-file-pdf-o"></i> <a href="{{ site.baseurl }}/document/Xindong_Zhang_CV.pdf" target="_blank">Download CV</a>
+
 ### Bio
 
 Xindong Zhang is a PhD candidate in the Department of Linguistics. She holds a Bachelor of English and Master of Foreign Languages and Literature from Chongqing University, China. 
