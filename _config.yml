@@ -37,6 +37,8 @@ nav:
 #     href:           "/abstracts/"
   - name:           "lab talks"
     href:           "/presentations/"
+  - name:           "research opportunities"
+    href:           "/research_opportunities/"
 
 # Sass
 sass:
