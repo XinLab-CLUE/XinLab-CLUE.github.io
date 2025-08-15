@@ -13,26 +13,32 @@ layout: default
 
       <style>
           .social-link{
-            display:inline-flex; align-items:center; gap:6px;
+            display:inline-flex; align-items:center; gap:0.4em;
             line-height:1; text-decoration:none; color:inherit;
-            margin-right:12px; /* 代替 &nbsp;&nbsp;&nbsp; */
+            margin-right:1.25rem;  /* 取代 &nbsp;&nbsp;&nbsp; */
           }
-          .social-link .icon{ width:1em; height:1em; display:block; }
+          .icon{ width:1em; height:1em; flex:0 0 auto; }
+          /* Font Awesome 图标的对齐 */
+          .icon--fa{ font-size:1em; line-height:1; }
+          /* Bluesky 是 <img>，给一点点下移，避免看起来“漂” */
+          .icon--bsky{ display:block; transform: translateY(0.06em); }
+          /* 如果仍有轻微偏差，可把 0.06em 改成 0.04~0.10em 微调 */
       </style>
         
       <a href="https://github.com/XinLab-CLUE" class="social-link" target="_blank">
-          <!-- 如果已引入 Font Awesome，这里可用 i；否则也可换成 Simple Icons 的 GitHub SVG -->
-          <i class="fa fa-github icon" aria-hidden="true"></i>
+          <i class="fa fa-github icon icon--fa" aria-hidden="true"></i>
           <span>XinLab</span>
       </a>
         
       <a href="https://bsky.app/profile/xinlab.bsky.social" class="social-link" target="_blank">
-          <img src="https://cdn.simpleicons.org/bluesky/87CEEB" alt="Bluesky" class="icon">
+          <img src="https://cdn.simpleicons.org/bluesky/87CEEB" alt="Bluesky" class="icon icon--bsky">
           <span>XinLab</span>
       </a>
-
-      <i class="fa fa-envelope-o"></i> MQpsycholinguistics@mq.edu.au</a>
-      </p>
+        
+      <a href="mailto:MQpsycholinguistics@mq.edu.au" class="social-link">
+          <i class="fa fa-envelope-o icon icon--fa" aria-hidden="true"></i>
+          <span>MQpsycholinguistics@mq.edu.au</span>
+      </a>
 
       <div class="w3-container" style="   background: #f0f8ff; padding: 25px; border-radius:10px; border: 1px solid #5d8aa8">
         <div style="text-align:left">
