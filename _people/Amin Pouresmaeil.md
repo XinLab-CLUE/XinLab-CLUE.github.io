@@ -15,7 +15,7 @@ joined: 2022
 
 
 ### CV  
-<i class="fa fa-file-pdf-o"></i> <href="https://xinlab-clue.github.io/documents/Amin_CV.pdf" target="_blank">Download CV</a>
+<i class="fa fa-file-pdf-o"></i> <a href="https://xinlab-clue.github.io/documents/Amin_CV.pdf" target="_blank">Download CV</a>
 
 
 ### Bio
