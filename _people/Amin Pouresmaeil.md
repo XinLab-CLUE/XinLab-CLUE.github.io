@@ -13,6 +13,11 @@ joined: 2022
 
 <hr>
 
+
+### CV  
+<i class="fa fa-file-pdf-o"></i> <a href="{{ site.baseurl }}/document/Amin_CV.pdf" target="_blank">Download CV</a>
+
+
 ### Bio
 
 Amin is a PhD candidate in Linguistics at Macquarie University. His PhD project is on instructed second language acquisition with a particular focus on input processing and processing instruction. In his research, Amin uses online tests, including self-paced reading and self-paced listening tests, to explore how instruction may facilitate second language acquisition.
