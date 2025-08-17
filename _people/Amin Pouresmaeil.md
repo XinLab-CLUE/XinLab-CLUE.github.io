@@ -15,7 +15,7 @@ joined: 2022
 
 
 ### CV  
-<i class="fa fa-file-pdf-o"></i> <a src="{{ site.baseurl }}/document/Amin_CV.pdf" target="_blank">Download CV</a>
+<i class="fa fa-file-pdf-o"></i> <a href="{{ site.baseurl }}/document/Amin_CV.pdf" target="_blank">Download CV</a>
 
 
 ### Bio
