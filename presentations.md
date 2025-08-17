@@ -13,7 +13,7 @@ Anything, really. Relevant and interesting topics, good statistic skills to know
 {% raw %}
 | Date       | Name | Topic |
 |------------|------|-------|
-| Aug 18      | TBD | TBD |
+| Aug 18      | Dr. Junjie Wu | Transcranial Magnetic Stimulation and Representational Similarity Analysis as Tools for Psycholinguistic Research: Case Examples from Our Research on Bilingualism |
 | Aug 4 (additional) | Dr. Junjie Wu  | Similarity analyses and permutation analyses | 
 | Aug 4      | Xindong Zhang| Neural mechanisms of tone processing and MEG techique |
 
