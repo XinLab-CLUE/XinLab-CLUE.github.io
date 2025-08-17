@@ -9,7 +9,7 @@ joined: 2019
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
 ### Contact
-<i class="fa fa-envelope-o"></i>  `x.wang1@hdr.mq.edu.au`
+<i class="fa fa-envelope-o"></i>  `x.wang1@mq.edu.au`
 
 <hr>
 
