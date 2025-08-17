@@ -15,7 +15,7 @@ joined: 2022
 
 
 ### CV  
-<i class="fa fa-file-pdf-o"></i> <a href="{{ '/document/Amin_CV.pdf' | relative_url }}" target="_blank">Download CV</a>
+<i class="fa fa-file-pdf-o"></i> <a href="XinLan-CLUE.github.io/documents/Amin_CV.pdf" target="_blank">Download CV</a>
 
 
 ### Bio
