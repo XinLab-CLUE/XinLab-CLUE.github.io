@@ -1,7 +1,7 @@
 ---
 layout: profile
 name: "Xin Wang"
-position: PI
+position: pi
 avatar: Xin_Wang.jpg
 joined: 2019
 ---
@@ -16,7 +16,7 @@ joined: 2019
 
 ### CV  
 <i class="fa fa-file-pdf-o"></i> <a href="https://xinlab-clue.github.io/documents/Xin_CV.pdf" target="_blank">Download CV</a>
-
+<i class="fa fa-globe"></i> <a href="https://researchers.mq.edu.au/en/persons/xin-wang" target="_blank"> My Website</a>
 
 ### Bio
 
