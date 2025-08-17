@@ -14,7 +14,7 @@ Anything, really. Relevant and interesting topics, good statistic skills to know
 | Date       | Name | Topic |
 |------------|------|-------|
 | Aug 4      | Xindong Zhang| Neural mechanisms of tone processing and MEG techique |
-| Aug 4 (additional) | Junjie Wu  | Similarity analyses and permutation analyses   |
+| Aug 4 (additional) | Dr. Junjie Wu  | Similarity analyses and permutation analyses   |
 | Aug 18      | TBD | TBD |
 
 
