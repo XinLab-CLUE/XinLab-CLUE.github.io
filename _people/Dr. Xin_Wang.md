@@ -1,6 +1,6 @@
 ---
 layout: profile
-name: "Xin Wang"
+name: "Dr. Xin Wang"
 position: pi
 avatar: Xin_Wang.jpg
 joined: 2019
