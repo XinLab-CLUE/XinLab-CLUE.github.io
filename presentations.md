@@ -21,6 +21,3 @@ Anything, really. Relevant and interesting topics, good statistic skills to know
 {% endraw %}
 
 
-<hr>
-{% endfor %}
-
