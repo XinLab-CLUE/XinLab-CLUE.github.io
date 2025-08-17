@@ -5,62 +5,25 @@ permalink: /about/
 ---
 
 ### About us
-We are a group of data scientists with interest in brains and, more general, biomedical research. Our research is more diverse than most labs, and also changes much more quickly! Right at the moment, much of the research in the lab is about deep learning and its applications. We also do a good bit of neural data analysis. Right now we are also very much interested in causality and its links with machine learning.
+We are a group of language researchers interested in testing hypotheses empirically to understand language processing and representations. Our research in psycholinguistics, neurolinguistics, bilingualism/multilingualism, and second language acquisition supports healthy and thriving communities by advancing understanding of how people process, learn and maintain multiple languages, enabling more inclusive education, healthcare, and public communication for Australia’s linguistically diverse population.
 
 ### Research
-Making sense of data is possibly the biggest problem in Neuroscience and beyond. We build algorithms to analyze data. We also use theory as well as computational and [neural modeling](https://en.wikipedia.org/wiki/Computational_neuroscience) to understand how information is processed in the nervous system, explaining data obtained in collaboration with [electrophysiologists](https://en.wikipedia.org/wiki/Electrophysiology) and in [psychophysical](https://en.wikipedia.org/wiki/Psychophysics) experiments. Lastly, we constrain and develop new technologies aimed at obtaining data about brains.
+Our work has a strong interdisciplinary nature and thus utilizes various experimental methods and techniques. At the conceptual level, our work addresses questions of how linguistic information and structures are processed and represented in the bilingual/multilingual mind and brain. We study how linguistic information from one language influences the other with both behavioural and neural measures, and how we can use cross-language processing mechanisms to develop useful language assessment tools and teaching practice in multilingual contexts, including second language learners, heritage language speakers, and speech/language therapists for multilingual patients.
 
-Our conceptual work addresses information processing in the nervous system from two angles: (1) By analyzing and explaining electrophysiological data, we study what neurons do. (2) By analyzing and explaining human behavior, we study what all these neurons do together. Much of our work looks at these questions from a normative or causal viewpoint, asking what problems the nervous system should be solving. This often means taking a Bayesian approach. Bayesian decision theory is the systematic way of calculating how the nervous system may make good decisions in the presence of uncertainty. Causal inference from observational data promises to be a key enabler for progress in science.
+We heavily invest in training students to develop experimental skills. For example, we primarily use Masked Priming and Eye-Tracker techniques (e.g., Visual World Paradigm) to understand language processing. We’ve also collaborated with people with neural techniques (EEG/MEG) to train students to use these tools to understand language processing.
 
-We've pursued projects that involve handshake greetings, human movement, [cell-phone related parkinson's research](http://journal.frontiersin.org/article/10.3389/fneur.2012.00158/abstract), competitions at [Kaggle](https://www.kaggle.com/), [meta-science analysis](http://www.nature.com/nature/journal/v489/n7415/full/489201a.html), data sharing initiatives, and [recording from all neurons in a mouse](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002291).
-
-The best way to get a sense of what's currently going on in the lab is to check out the work of individual lab members:
-
-### Lab Members
-
-Our research group is remarkably interdisciplinary. Our interests span statistics, physics, biology, applied mathematics, molecular biology, metascience, cognitive science, and many other disciplines. Visit our [people page](http://kordinglab.com/people/) to see more information on each person who works in the lab (publications, contact information, photos).
+We’ve pursued projects that involve using masked priming data to build bilingual and trilingual lexical models, morphology in bilingualism, the orthographic depth hypothesis in bilingualism, language switching and code-switching in comprehension, language control in bilingual language production, the interface between lexical tone and bilingualism (e.g., modelling tonal bilingualism), lexical tone in cross-modal perceptual learning, tone timing, input processing in second language learning and processing, etc.
 
 ### Lab Culture
 
-Our lab is a wonderful spot for anyone who is super driven by curiosity and likes to learn/move through ideas quickly. Instead of one big "lab project", everyone is generally the chief of their own individual projects.
+As a group, we value **respect, hard work, scientific curiosity, and innovation**. Our lab is a wonderful place for anyone who is super-driven and likes to learn ideas/skills quickly. HDR students are generally the chief of their own projects, but they also have the opportunity to work with others or senior people under close supervision.
 
-Since our lab includes several fields, we don't have big lab meetings with everyone. Instead, we engage in a number of practices to facilitate good communication in the lab. Currently these include
-0. Weekly 'lab teachings' where someone teaches a thing. http://kordinglab.com/2018/08/29/upcoming-lab-teaching.html
-0. 'One-on-ones'. Every semester everyone in the lab is expected to sit down with everyone else for an hour.
-0. Lab tea time. It's tea! And science. A 10-minute talk by someone about anything, including their current work.
-0. Coding overviews. Structured like the one-on-ones
-0. A lab hammock, hangboard, and art on loan from the Penn Museum
-0. Monday morning donuts @ 9:00am
+**Being open and transparent** is the key to success in our lab. Any lab member is encouraged to discuss any issues with the lab director and other members. Currently, we host lab meetings every fortnight, as well as individual project meetings scheduled per student’s needs.
 
-Every week, more or less, we chat about current lab practices and sometimes vote on new things.
+We also invite outside speakers to visit the lab and provide specific training to students. From time to time, we organize lab socials. Any good ideas to promote lab life, please email or talk to us.
+
+We also heavily invest in PACE, Research Rotation students, and Interns at the undergraduate level. We believe they are an integral part of our lab membership and contribute their share of interesting thoughts and work.
 
 ### Collaborators
 
-Here are some cool people in fields that interest us. **note:** This list is in no way complete. We have a lot of collaborators -- if you've collaborated with us and want a link here, let us know!
-
-**University of Pennsylvania:**
-- [Michael Platt - Dept of Neuroscience](http://plattlabs.rocks/)
-- [David Issadore - Dept of Bioengineering](http://cnt.upenn.edu/david-issadore)
-- [Jay Gottfried - Dept of Neurology](http://labs.feinberg.northwestern.edu/gottfried/)
-- [Raquel and Ruben Gur - Dept of Neuropsychiatry](http://www.med.upenn.edu/bbl/faculty-regur.html)
-- [Maria Geffen - Dept of Otorhinolaryngology](https://geffenlab.weebly.com/)
-- [Yale Cohen - Dept of Otorhinolaryngology](http://auditoryresearchlaboratory.weebly.com/)
-- [Dani Bassett - Dept of Bionengineering](https://www.danisbassett.com/)
-- [Andrew Tsourkas - Dept of Bioengineering](http://www.seas.upenn.edu/~atsourk/)
-- [Jason Moore - Dept of Biostatistics](https://www.med.upenn.edu/apps/faculty/index.php/g275/p8803452)
-- [Lyle Ungar - Dept of CIS](http://www.cis.upenn.edu/~ungar/)
-
-**Northwestern University:**
-- [Lee Miller - Depts of Physiology and BME](http://physio.northwestern.edu/)
-- [Mark Segraves - Depts of Neurobiology and Physiology](http://www.neurobiology.northwestern.edu/people/core-faculty/mark-segraves.html)
-- [Matt Tresch - Depts of Physiology and BME](http://www.mccormick.northwestern.edu/biomedical/)
-- [David Mohr - Dept of Preventive medicine](http://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=17234)
-
-
-**External:**
-
-- [Scott Grafton - UCSB](https://www.psych.ucsb.edu/people/faculty/grafton)
-- [Nicho Hatsopoulos - University of Chicago](http://pondside.uchicago.edu/oba/faculty/Hatsopoulos/lab/)
-- [Peter Strick - University of Pittsburgh](http://www.cnbc.cmu.edu/faculty/strick-peter-l/view-details)
-- [Mriganka Sur - MIT](http://surlab.mit.edu/)
-- [Rob Turner - University of Pittsburgh](http://www.neurobio.pitt.edu/faculty/turner.htm)
+(to come….)
