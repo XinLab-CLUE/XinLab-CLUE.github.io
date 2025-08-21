@@ -1,6 +1,6 @@
 ---
 layout: profile
-name: "Junjie Wu"
+name: "Dr. Junjie Wu"
 position: visiting
 avatar: Junjie_Wu.jpg
 joined: 2024
@@ -38,7 +38,7 @@ His research employs a wide range of research techniques and analytical methods,
 7.	**Wu, J.,** Ji, Y., Cai, C., Pu, X., Wang, Q., Yan, G., Wang, Q. & Wang, X. (2024). Online Transcranial Magnetic Stimulation Reveals Dynamic Interactions Between Language Control and Processing in Bilingual Language Production. Cerebral Cortex, 34( 11), bhae452. (5-year impact factor 3.4, JCR Q2, SCIE) Wu-2024-Cereb Corte
 8.	**Wu, J.,** Cheng, Y., Qu, X., Kang, T., Cai, Y., Wang, P., ... & Chen, L. (2024). Continuous Theta-Burst Stimulation on the Left Posterior Inferior Frontal Gyrus Perturbs Complex Syntactic Processing Stability in Mandarin Chinese. . Neurobiology of Language, 5 (2): 608-627. (Impact Factor 3.6, JCR Q1, ESCI) Wu-2024-NOL
 9.	**Wu, J.,** Zhang, M., Dang, Q., Chang, Q., Yuan, Q., Zhang, Z., ... & Guo, T. (2022). Nonverbal cognitive control training increases the efficiency of frontal-subcortical collaboration for bilingual language control. Neuropsychologia, 169,  108204. (5-year impact factor 3.218, JCR Q3, SCIE) Wu-2022-Neuropsychologia
-10.	Wang, Q., **Wu, X.,** Ji, Y., Yan, G., & Wu, J. [Corresponding author]  (2022). Second Language Proficiency Modulates the Dependency of Bilingual Language Control on Domain-General Cognitive Control. Frontiers in Psychology, 13 , 810573-810573. (5-year impact factor 3.618, JCR Q2,SSCI) Wang-2022-Frontiers in Psychology
+10.	Wang, Q., Wu, X., Ji, Y., Yan, G., & **Wu, J. [Corresponding author]**  (2022). Second Language Proficiency Modulates the Dependency of Bilingual Language Control on Domain-General Cognitive Control. Frontiers in Psychology, 13 , 810573-810573. (5-year impact factor 3.618, JCR Q2,SSCI) Wang-2022-Frontiers in Psychology
 11.	Li, H., **Wu, J.,** Marks, R. A., Huang, H., Li, L., Dong, L., ... & Ding, G. (2022). Functional mapping and cooperation between the cerebellum and cerebrum during word reading. Cerebral Cortex, 32 (22), 5175-5190 . (Five-year impact factor 6.108, JCR Q1). (5-year impact factor 6.108, JCR Q1, SCIE) Li-2022-Cereb Cortex
 12.	Yuan, Q., **Wu, J. [Co-first author],** Zhang, M. et al. Patterns and networks of language control in bilingual language production. brain Structure and Function (2021) . (5-year impact factor 4.019, JCR Q1, SCIE) Yuan-2021-BSAF.pdf
 13.	Chen, L., **Wu, J. [Co-first author],** Hartwigsen, G., Li, Z., Wang, P., & Feng, L. (2021). The role of a critical left fronto-temporal network with its right-hemispheric homologue in syntactic learning based on word category information. Journal of Neurolinguistics, 58, 100977. (5-year impact factor 1.853, JCR Q4, SCIE) Chen-2020-Journal of Neurolinguistics
