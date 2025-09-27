@@ -24,3 +24,11 @@ Xindong Zhang is a PhD candidate in the Department of Linguistics. She holds a B
 
 Xindong's research area of interest includes investigating tone and word processing from the neural perspective.
 
+### PhD Project
+Neural mechanisms of cross-langauge tone processing: evidence from MEG studies.
+
+### Conference Presentations
+•	Zhang, X. D., Zhu, J. D., Wu, J., Sowman, P. F., Wang, X. "Covert Activation of Lexical Tones in Mandarin-English Bilinguals: Evidence from MEG". Poster Presentation. *Australasian Experimental Psychology Conference and Asia Pacific Conference on Vision Joint Meeting 2025*, July, 2025.
+•	Zhang, X. D., Zhu, J. D., Sowman, P. F., Wang, X. "Covert Activation of Lexical Tones in Mandarin-English Bilinguals: Evidence from MEG". Poster Presentation. *Society for the Neurobiology of Language (SNL) 16th Annual Meeting 2024*, November, 2024.
+•	Zhang, X. D., Zhu, J. D., Sowman, P. F., Wang, X. "The Neural Basis of Lexical Tone in Bilingual Language Processing". Poster Presentation. *Society for the Neurobiology of Language (SNL) 16th Annual Meeting 2024*, November, 2024.
+•	Zhang, X. D., Zhu, J. D., Sowman, P. F., Wang, X. "Covert Activation of Lexical Tones in Mandarin-English Bilinguals: Evidence from MEG". Oral Presentation. *Biomag 2024*, August, 2024.
