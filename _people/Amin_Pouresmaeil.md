@@ -29,6 +29,9 @@ Amin has been working as an ESL practitioner and researcher for over 15 years. C
 - Processing instruction
 - Individual differences in second language acquisition
 
+### PhD Project
+The online primary and secondary effects of processing instruction on second language acquisition and the role of individual differences in working memory
+
 ### Publications
 
 - Pouresmaeil, A., Wang, X., & Benati, A. (2025). The online effects of processing instruction on the acquisition of the English passive structure. Languages, 10(7). 166. doi: 10.3390/languages10070166
