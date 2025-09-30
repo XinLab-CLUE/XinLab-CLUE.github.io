@@ -20,7 +20,7 @@ permalink: /current_projects/
 
 **Title:** Neural mechanisms of cross-langauge tone processing: evidence from MEG studies
 
-**Principle Investigators:** Xindong Zhang, Xin Wang, Judy. Du. Zhu, Junjie Wu, Paul. F. Sowman
+**Principle Investigators:** Xindong Zhang, Xin Wang, Judy. D. Zhu, Junjie Wu, Paul. F. Sowman
 
 **Funding:** CSC-MQ scholarship
 
