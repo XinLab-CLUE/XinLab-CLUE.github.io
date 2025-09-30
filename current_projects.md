@@ -9,9 +9,7 @@ permalink: /current_projects/
 Here are some of the projects taking place or recently completed within the XinLab.
 
 ### Bilingualism/Multilingualism
-
 <br/>
-
 **Title:** Beyond Segments: towards a lexical model for tonal bilinguals
 
 **Principle Investigators:** Xin Wang, Bob McMurray
