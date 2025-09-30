@@ -2,9 +2,15 @@
 title: Current porjects
 permalink: /current_projects/
 ---
-# Current Projects<br/>
+# Current Projects
 
-## Bilingualism/Multilingualism<br/>
+<br/>
+
+Here are some of the projects taking place or recently completed within the XinLab.
+
+## Bilingualism/Multilingualism
+
+<br/>
 
 **Title:** Beyond Segments: towards a lexical model for tonal bilinguals
 
