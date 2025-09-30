@@ -8,7 +8,7 @@ permalink: /current_projects/
 
 Here are some of the projects taking place or recently completed within the XinLab.
 
-## Bilingualism/Multilingualism
+### Bilingualism/Multilingualism
 
 <br/>
 
@@ -36,7 +36,11 @@ Here are some of the projects taking place or recently completed within the XinL
 
 ***
 
-## Language Learning
+### Language Learning
 
-## Second Language Acquisition
+<br/>
+
+### Second Language Acquisition
+
+<br/>
 
