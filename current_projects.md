@@ -26,7 +26,7 @@ Here are some of the projects taking place or recently completed within the XinL
 
 **Funding:** CSC-MQ scholarship
 
-**Project description:** Pitch variation in tonal languages (i.e., lexical tone) like Mandarin Chinese play a crucial role in constraining spoken word recognition. In contrast, pitch variation in non-tonal languages like English typically serve prosodic rather than lexical functions, signaling aspects such as speaker emotion or sentence modality (e.g., declarative vs. interrogative), without changing the meaning of individual words. Building on this cross-linguistic distinction, the present thesis investigates how pitch variations are processed across tonal and non-tonal language systems at the neural level, using magnetoencephalography (MEG).
+**Project description:** Pitch variation in tonal languages (i.e., lexical tone) like Mandarin Chinese play a crucial role in constraining spoken word recognition. In contrast, pitch variation in non-tonal languages like English typically serve prosodic rather than lexical functions, signaling aspects such as speaker emotion or sentence modality (e.g., declarative vs. interrogative), without changing the meaning of individual words. Building on this cross-linguistic distinction, the present project investigates how pitch variations are processed across tonal and non-tonal language systems at the neural level, using magnetoencephalography (MEG).
 
 **Papers:**
 
