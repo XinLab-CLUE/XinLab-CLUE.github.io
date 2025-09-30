@@ -32,11 +32,29 @@ Here are some of the projects taking place or recently completed within the XinL
 
 ***
 
+### Second Language Acquisition
+<br/>
+**Title:** The online effects of processing instruction on second language acquisition and the role of input modality: Primary and secondary effects
+
+**Principle Investigators:** Amin Pouresmaeil, Xin Wang, Alessandro Benati
+
+**Funding:**  Australian Government Research Training Program (RTP) Scholarship
+
+**Project description:** This project investigates how second language (L2) learners process L2 in real time after receiving one hour of computer-based instruction in the form of processing instruction (PI) or structured input (SI). The study also aims to find out whether instruction provided on a particular linguistic structure (English passives in this case) would have any transfer-of-training effects on processing other linguistic structures (English passive causatives in this case). The study employs two online tests, namely a self-paced reading test and a self-paced listening test, to measure accuracy of response, response time in selecting the correct picture, and reading/listening time. Through employing online tests in two modalities (written and auditory), the study also aims to explore how input modality may affect the learners’ processing of language.
+
+**Papers published:**
+
+- Pouresmaeil, A., Wang, X., & Benati, A. (2025). The Online Effects of Processing Instruction on the Acquisition of the English Passive Structure. Languages, 10(7), 166. doi: 10.3390/languages10070166
+
+**Works submitted for review:**
+
+- Pouresmaeil, A., Wang, X., & Benati, A. (2025). The online effects of processing instruction and structured input on the acquisition of the English passive constructions: The role of input modality.
+
+<br/>
+***
 ### Language Learning
 
 <br/>
 
-### Second Language Acquisition
 
-<br/>
 
