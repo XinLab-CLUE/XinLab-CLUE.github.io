@@ -20,7 +20,7 @@ Here are some of the projects taking place or recently completed within the XinL
 
 - Wang, X., & McMurray, B. (2025). Bilinguals automatically access both languages based on "irrelevant" acoustic detail: evidence from lexical tone. (SSRN). https://doi.org/10.2139/ssrn.5405389
  
-- Wang, X., & McMurray, B. (2024). Lexical tone in bilingual crosstalk. In Y. Chen, A. Chen, & A. Arvaniti (Eds.), Speech Prosody 2024 (pp. 349-353). (Speech Prosody). International Speech Communication Association (ISCA). <a href="https://doi.org/10.21437/SpeechProsody.2024-71" target="_blank">论文链接</a>
+- Wang, X., & McMurray, B. (2024). Lexical tone in bilingual crosstalk. In Y. Chen, A. Chen, & A. Arvaniti (Eds.), Speech Prosody 2024 (pp. 349-353). (Speech Prosody). International Speech Communication Association (ISCA). <a href="https://doi.org/10.21437/SpeechProsody.2024-71" target="_blank">https://doi.org/10.21437/SpeechProsody.2024-71</a>
  
 - Wang, X., Jheng, J.-Y., & McMurray, B. (2024). Tone superimposition technique in speech sciences: a tutorial. Frontiers in Education, 9, 1-16. Article 1439014. https://doi.org/10.3389/feduc.2024.1439014
 
