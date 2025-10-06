@@ -8,15 +8,21 @@ Here are some of the projects taking place or recently completed within the XinL
 
 ### Bilingualism/Multilingualism
 <br/>
-**Title:** Beyond Segments: towards a lexical model for tonal bilinguals
+**Title:** Beyond Segments: towards a lexical model for tonal bilinguals [DP210102789 (2021- 2026)]
 
 **Principle Investigators:** Xin Wang, Bob McMurray
 
-**Funding:** Australia Research Council: Discovery Program
+**Funding:** Australia Research Council: Discovery Program 
 
 **Project description:** This project aims to understand how healthy adult bilinguals resolve competition from their unintended language to communicate successfully in the intended language, using eye-tracking techniques. In both bilingual language comprehension and production, the project will characterise the role of an under-explored linguistic dimension, lexical tone, in cross-language processing.
 
 **Papers:**
+
+- Wang, X., & McMurray, B. (2025). Bilinguals automatically access both languages based on "irrelevant" acoustic detail: evidence from lexical tone. (SSRN). https://doi.org/10.2139/ssrn.5405389
+ 
+- Wang, X., & McMurray, B. (2024). Lexical tone in bilingual crosstalk. In Y. Chen, A. Chen, & A. Arvaniti (Eds.), Speech Prosody 2024 (pp. 349-353). (Speech Prosody). International Speech Communication Association (ISCA). https://doi.org/10.21437/SpeechProsody.2024-71
+ 
+- Wang, X., Jheng, J.-Y., & McMurray, B. (2024). Tone superimposition technique in speech sciences: a tutorial. Frontiers in Education, 9, 1-16. Article 1439014. https://doi.org/10.3389/feduc.2024.1439014
 
 ***
 
