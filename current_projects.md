@@ -36,7 +36,11 @@ Here are some of the projects taking place or recently completed within the XinL
 
 **Project description:** Pitch variation in tonal languages (i.e., lexical tone) like Mandarin Chinese play a crucial role in constraining spoken word recognition. In contrast, pitch variation in non-tonal languages like English typically serve prosodic rather than lexical functions, signaling aspects such as speaker emotion or sentence modality (e.g., declarative vs. interrogative), without changing the meaning of individual words. Building on this cross-linguistic distinction, the present project investigates how pitch variations are processed across tonal and non-tonal language systems at the neural level, using magnetoencephalography (MEG).
 
-**Papers:**
+**Conference presentations:**
+- Zhang, X. D., Zhu, J. D., Wu, J., Sowman, P. F., Wang, X. "Covert Activation of Lexical Tones in Mandarin-English Bilinguals: Evidence from MEG". Poster Presentation. Australasian Experimental Psychology Conference and Asia Pacific Conference on Vision Joint Meeting 2025, June, 2025.
+- Zhang, X. D., Zhu, J. D., Sowman, P. F., Wang, X. "Covert Activation of Lexical Tones in Mandarin-English Bilinguals: Evidence from MEG". Poster Presentation. Society for the Neurobiology of Language (SNL) 16th Annual Meeting 2024, October, 2024.
+- Zhang, X. D., Zhu, J. D., Sowman, P. F., Wang, X. "The Neural Basis of Lexical Tone in Bilingual Language Processing". Poster Presentation. Society for the Neurobiology of Language (SNL) 16th Annual Meeting 2024, October, 2024.
+- Zhang, X. D., Zhu, J. D., Sowman, P. F., Wang, X. "Covert Activation of Lexical Tones in Mandarin-English Bilinguals: Evidence from MEG". Oral Presentation. Biomag 2024, August, 2024.
 
 ***
 
