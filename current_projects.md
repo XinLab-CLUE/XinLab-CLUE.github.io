@@ -18,12 +18,12 @@ Here are some of the projects taking place or recently completed within the XinL
 
 **Papers:**
 
-- Wang, X., & McMurray, B. (2025). Bilinguals automatically access both languages based on "irrelevant" acoustic detail: evidence from lexical tone. (SSRN).
+-  Wang, X., & McMurray, B. (2025). Bilinguals automatically access both languages based on "irrelevant" acoustic detail: evidence from lexical tone. (SSRN).
 <a href="https://doi.org/10.2139/ssrn.5405389" target="_blank">https://doi.org/10.2139/ssrn.5405389</a>
  
-- Wang, X., & McMurray, B. (2024). Lexical tone in bilingual crosstalk. In Y. Chen, A. Chen, & A. Arvaniti (Eds.), Speech Prosody 2024 (pp. 349-353). (Speech Prosody). International Speech Communication Association (ISCA). <a href="https://doi.org/10.21437/SpeechProsody.2024-71" target="_blank">https://doi.org/10.21437/SpeechProsody.2024-71</a>
+-  Wang, X., & McMurray, B. (2024). Lexical tone in bilingual crosstalk. In Y. Chen, A. Chen, & A. Arvaniti (Eds.), Speech Prosody 2024 (pp. 349-353). (Speech Prosody). International Speech Communication Association (ISCA). <a href="https://doi.org/10.21437/SpeechProsody.2024-71" target="_blank">https://doi.org/10.21437/SpeechProsody.2024-71</a>
  
-- Wang, X., Jheng, J.-Y., & McMurray, B. (2024). Tone superimposition technique in speech sciences: a tutorial. Frontiers in Education, 9, 1-16. Article 1439014.
+-  Wang, X., Jheng, J.-Y., & McMurray, B. (2024). Tone superimposition technique in speech sciences: a tutorial. Frontiers in Education, 9, 1-16. Article 1439014.
 <a href="https://doi.org/10.3389/feduc.2024.1439014" target="_blank">https://doi.org/10.3389/feduc.2024.1439014</a>
 
 ***
@@ -56,7 +56,8 @@ Here are some of the projects taking place or recently completed within the XinL
 
 **Papers published:**
 
-- Pouresmaeil, A., Wang, X., & Benati, A. (2025). The Online Effects of Processing Instruction on the Acquisition of the English Passive Structure. Languages, 10(7), 166. doi: 10.3390/languages10070166
+- Pouresmaeil, A., Wang, X., & Benati, A. (2025). The Online Effects of Processing Instruction on the Acquisition of the English Passive Structure. Languages, 10(7), 166.
+<a href="https://doi.org/10.3390/languages10070166" target="_blank">doi: 10.3390/languages10070166</a>
 
 **Works submitted for review:**
 
